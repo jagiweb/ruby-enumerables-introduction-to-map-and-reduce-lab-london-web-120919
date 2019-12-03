@@ -1,2 +1,2 @@
 # My Code here....
-map { |map_to_negativize| *-1  }
+map(map_to_negativize, *-1)
